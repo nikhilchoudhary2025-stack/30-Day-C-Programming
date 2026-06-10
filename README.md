@@ -22,7 +22,7 @@ Daily C programming practice sheet for AKTU university exam.
 --------
 |
 | Day 1 | Basic Programs (Sum, Table, Factorial, Digits) | ✅ Done |
-| Day 2 | Digit Programs (Sum, Reverse, Product, Palindrome) | ✅ Done |
+| Day 2 | Digit Programs (Sum, Reverse, Product, Palindrome) | ⏳ In Progress |
 |
 
 ## 📁 Topics Covered
