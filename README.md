@@ -24,6 +24,10 @@ Daily C programming practice sheet for AKTU university exam.
 | Day 1 | Basic Programs (Sum, Table, Factorial, Digits) | ✅ Done |
 | Day 2 | Digit Programs (Sum, Reverse, Product, Palindrome) | ✅ Done  |
 | Day 3 | Prime, GCD, LCM | ✅ Done | 
+| Day 4 | Fibonacci, Armstrong | ✅ Done |
+| Day 5 | Perfect, Strong, Factors | ✅ Done |
+| Day 6 | Number Conversions, Set Bits, Power | ✅ Done |
+|
 
 
 ## 📁 Topics Covered
