@@ -27,7 +27,9 @@ Daily C programming practice sheet for AKTU university exam.
 | Day 4 | Fibonacci, Armstrong | ✅ Done |
 | Day 5 | Perfect, Strong, Factors | ✅ Done |
 | Day 6 | Number Conversions, Set Bits, Power | ✅ Done |
-|
+| Day 7 | Recursion | Q25-Q28 | ✅ Done |
+| Day 8 | Patterns Part 1 | Q29-Q32 | ✅ Done |
+| Day 9 | Patterns Part 2 | Q33-Q36 | ✅ Done |
 
 
 ## 📁 Topics Covered
